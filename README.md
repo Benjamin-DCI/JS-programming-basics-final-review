@@ -1,4 +1,4 @@
-# Unit 1 Practice Problems
+# Programming Basics Practice Problems
 
 This is a list of problems that are all fair game by the end of this module. If you can solve all of these, you are in awesome shape. If you
 find some of these to be difficult, that's okay, keep practicing them until you are comfortable with them. 
